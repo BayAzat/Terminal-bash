@@ -1,0 +1,159 @@
+[33mcommit 853a71c2e95d019075d0bfd1f49aa8e0d4d1a46c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Mon May 9 17:41:00 2022 +0300
+
+    add branches
+
+[33mcommit 5f867b961c28c2b13531efc6450f72831e7e0a10[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Mon May 9 17:25:00 2022 +0300
+
+    Update bug_report.txt
+
+[33mcommit d9f98bcf31fba621669be31f07b35ed40ff59358[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Mon May 9 17:23:59 2022 +0300
+
+    Create bug_report.txt
+
+[33mcommit 63d172aa6558a02b3f41436cc0a220c7d303a130[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Mon May 9 17:21:30 2022 +0300
+
+    add info preferences.xml
+
+[33mcommit e195261079bf51c4121432343021140e0c199275[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Mon May 9 16:57:06 2022 +0300
+
+    add info new.txt
+
+[33mcommit 4a12642199174f43b27363cf2973f003bd2894c1[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Mon May 9 16:53:18 2022 +0300
+
+    Create new.txt
+
+[33mcommit 33ce2c12aa0a75e9b7b43e3a62095a3a1f2901a9[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Mon May 9 16:50:46 2022 +0300
+
+    Create bug_report.xml
+
+[33mcommit 4f1aa8037f62320da08fd13a96abefd52b11f474[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Mon May 9 16:24:24 2022 +0300
+
+    add preferences.xml skills.xml
+
+[33mcommit 61114cd9acf7b41149b08e7352b50bc34314c369[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Mon May 9 16:23:37 2022 +0300
+
+    add preferences.xml skills.xml
+
+[33mcommit 451df5473b242e40261a611352a2ca87c2be6cf3[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Mon May 9 15:54:34 2022 +0300
+
+    add info new.xml
+
+[33mcommit 6947308afa81cc7b2d733db2526d6f91455f3489[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Mon May 9 15:20:57 2022 +0300
+
+    Create new.xml
+
+[33mcommit 362b920b4a4e5afdbed2cb4cec54136fd5fa4876[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Sun May 8 01:10:29 2022 +0300
+
+    Update bug_report.json
+
+[33mcommit 33ccc81862176341a0614acc6c529f9e1d952d59[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Sun May 8 01:04:35 2022 +0300
+
+    creat bug_report.json
+
+[33mcommit 0f96c1e2b78fecacdd9b5eba1aa883561702de1f[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Sun May 8 00:57:30 2022 +0300
+
+    Update skills.json
+    
+    update
+
+[33mcommit b65d8d06e52b4d9101e5604439a03143f10dfad6[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Sun May 8 00:55:35 2022 +0300
+
+    add preferences.json, skills.json
+
+[33mcommit 50a4a53c794a099da1d06a235d892e31d1fbba92[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Sat May 7 14:20:20 2022 +0300
+
+    Update new.json
+
+[33mcommit 73f3108f0edb93c76360b865c5ef2b2fb49e0213[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Sat May 7 14:19:24 2022 +0300
+
+    add JSON
+
+[33mcommit 204cb2ba599709f2e1c74a7dbf7e12ea94cbe88b[m
+Author: BayAzat <azatbay.job@gmail.com>
+Date:   Sat May 7 12:59:35 2022 +0300
+
+    add t1.txt
+
+[33mcommit d36893ab1c2ebe6c5a11575e8dfded3809241445[m
+Author: ishdaobr <azatbay@gmail.com>
+Date:   Sat May 7 12:48:59 2022 +0300
+
+    add test_4.txt
+
+[33mcommit 76632c68aa17ec01c7e2f4c03d02c45b20b79da2[m
+Author: ishdaobr <azatbay@gmail.com>
+Date:   Sat May 7 12:22:05 2022 +0300
+
+    translate lines 5 6
+
+[33mcommit 3791c9426374d4bc637d6d093f361f25318e84b4[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Sat May 7 12:16:16 2022 +0300
+
+    Update test_1.txt
+    
+    add line 5,6
+
+[33mcommit 623d65fcff66b27f1c4ed7a5ca1a76ceb359d342[m
+Author: ishdaobr <azatbay@gmail.com>
+Date:   Sat May 7 12:13:18 2022 +0300
+
+    add 4 lines
+
+[33mcommit f6965242bea7b8b25f9e5f7a5e1945e74eabfa79[m
+Author: ishdaobr <azatbay@gmail.com>
+Date:   Sat May 7 12:09:50 2022 +0300
+
+    delet test_1.test
+
+[33mcommit ddc8bd0e86e6344ec499e17f0a03d5eac255db62[m
+Author: ishdaobr <azatbay@gmail.com>
+Date:   Sat May 7 12:07:22 2022 +0300
+
+    add test_1,2,3.txt files
+
+[33mcommit 320a8f854a2e82028c7abc10c62cdb9afdcb7900[m
+Author: ishdaobr <azatbay@gmail.com>
+Date:   Sat May 7 01:25:14 2022 +0300
+
+    ok
+
+[33mcommit 5df08a5f4318be002f6e8a838c8103c499b5c659[m
+Author: Azat <104733492+BayAzat@users.noreply.github.com>
+Date:   Fri May 6 13:22:55 2022 +0300
+
+    Initial commit
