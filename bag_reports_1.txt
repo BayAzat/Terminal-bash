@@ -1,3 +1,11 @@
-{
-	"item_1":"Iphone 12"
-}
+ID: 1
+Title:My 1st bag
+Date:09-05-2022
+Severity:--------
+Priority:--------
+Steps:
+1. -----
+2. -----
+3. -----
+Expected result: ......
+Actual result: ........
