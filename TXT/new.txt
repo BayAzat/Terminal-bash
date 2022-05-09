@@ -1,1 +1,6 @@
-
+First name: Azat
+Last name: Bay
+Patronymis: Vakh
+Age:33
+Numd of pets:0
+Desired salary:50000 rub
