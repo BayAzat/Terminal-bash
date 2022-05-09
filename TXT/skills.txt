@@ -1,0 +1,10 @@
+Skills:
+Терминал
+GitHub
+Клиент серверная архитектура
+Postman
+SQL
+Mobile
+Чарльз прокси
+Fiddler
+JMeter
