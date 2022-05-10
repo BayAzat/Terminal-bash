@@ -1,0 +1,10 @@
+<xml>
+	<ID>1</ID>
+	<Title>My 1st bag</Title>
+	<Date>09-05-2022</Date>
+	<Severity>Severity:</Severity>
+	<Priority>Priority:</Priority>
+	<Steps>Steps:</Steps>
+	<Expected_result>Expectedresult:</Expected_result>
+	<Actual_result>Actual result:</Actual_result>
+</xml>
