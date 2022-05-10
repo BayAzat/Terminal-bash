@@ -1,6 +1,8 @@
 {
-	"name":"Azat",
-	"age":32,
-	"city":"Kazan"
+	"First_name":"Azat",
+	"Last_name":"Bay",
+	"Patronymis":"Vakh",
+	"Age":33,
+	"Numd_of_pets":0,
+	"Desired salary":"50000 rub"
 }
-

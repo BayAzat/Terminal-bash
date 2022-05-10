@@ -1,5 +1,10 @@
 {
-  "ID": 1,
-  "Title": "My 1st bug",
-  "Date": "08-05-2022"
+	"ID":1,
+	"Title":"My 1st bag",
+	"Date":"09-05-2022",
+	"Severity":"--------",
+	"Priority":--------",
+	"Steps":"1. ----- 2. ----- 3. -----",
+	"Expected_result":"......",
+	"Actual_result":"........"
 }
