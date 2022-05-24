@@ -1,0 +1,13 @@
+﻿#!bin/bash
+
+echo "My 1st script"
+echo "============="
+cd folder1/
+mkdir folder2 folder3 folder4
+cd folder2/
+touch test1.txt test2.txt test3.txt json1.js json2.js
+mkdir folder5 folder6 folder7
+mv ~/Desktop/folder1/folder2/test1.txt ~/Desktop/folder1/test1.txt
+mv ~/Desktop/folder1/folder2/test2.txt ~/Desktop/folder1/test2.txt
+ls -la ~/Desktop/folder1/folder2/
+
